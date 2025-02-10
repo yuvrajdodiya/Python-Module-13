@@ -1,0 +1,24 @@
+• Introduction to conditional statements: if, else, elif.
+
+        =if statements: 
+            if condition:
+                true
+           
+        =if else statement: 
+
+            if condition:
+                true 
+            else:
+                fales
+
+        =elif statement: 
+
+            if condition:
+                true
+            elif:
+                true
+            elif:
+                true
+            elif :
+                fales 
+

@@ -1,0 +1,7 @@
+3.Advantages of using Python over other programming languages
+        - Python supports modules and packages which encourages program modularity and code reuse.
+          Improved program maintenance, code is extremely readable.
+          Works Everywhere like as on Windows, macOS, Linux, and even mobile devices.
+          Variable do not need declaration.
+
+

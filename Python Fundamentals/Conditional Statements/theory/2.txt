@@ -1,0 +1,10 @@
+Nested if-else conditions statement : 
+    if statement:
+        if condition:
+            true
+        else:
+            fales
+    else:
+        if condition:
+            true
+        else:

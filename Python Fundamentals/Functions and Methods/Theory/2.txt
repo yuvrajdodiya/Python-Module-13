@@ -1,0 +1,16 @@
+> Function arguments (positional, keyword, default).
+    
+1. Positional Arguments :-
+
+    These are the most common type of arguments.
+    The order in which arguments are passed to the function matters.
+    The values are assigned to the parameters based on their position.
+
+2. Keyword Arguments :-
+    These allow you to specify the argument name along with its value.
+    The order of the arguments does not matter when using keyword arguments.
+
+3. Default Arguments :- 
+    Default arguments are used to provide default values for function parameters.
+    If no value is provided for a parameter with a default value, the default value is used.
+    Default arguments must appear after non-default arguments in the parameter list.

@@ -1,0 +1,18 @@
+> Defining and calling functions in Python?
+
+1. Functions :- 
+    A function in Python is a block of code that only run when it is called.
+
+2. Creating Functions :- 
+    To create a function in Python, we use def keyword, followed by the function name and parentheses().
+
+    Syntax :- def function_name()
+                    # code of block 
+                return value
+
+3. Function Calling :- 
+    To call a function, use its name by parentheses(). If the function requires arguments, pass them inside the parentheseds.
+
+    Syntax :- 
+        function_name(arguments)
+

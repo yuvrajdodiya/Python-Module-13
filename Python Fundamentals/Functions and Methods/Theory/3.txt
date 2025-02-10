@@ -1,0 +1,21 @@
+
+• Scope of variables in Python.
+
+There are 4 types of scope in variable
+
+1. Local Scope :-
+    Definition :- 
+        A variable declared inside a function is in the local scope. It is accessible only within  that function.
+
+2. Enclosing Scope (Nonlocal) :- 
+    Definition :- 
+        Variables declared in an enclosing function (a function inside another function) are in the enclosing scope
+
+3. Global Scope :- 
+    Definition :- 
+        A variable declared outside any function or block is in the global scope. It can be accessed from anywhere in the program.
+    
+4. Built-in Scope :- 
+    Definition :- 
+        This is the outermost scope and includes all built-in functions and keywords in Python, like print(), len(), or int().
+

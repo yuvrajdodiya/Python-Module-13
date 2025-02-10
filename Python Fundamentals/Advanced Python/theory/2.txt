@@ -1,0 +1,14 @@
+• Using map(), reduce(), and filter() functions for processing data.
+
+        map():= 
+                    map() function is a built-in function that allows you to apply a specified
+                    function to all the items in an iterable
+                    
+        reduce():= 
+                    reduce an iterable to a single value by applying a binary function (a function
+                    that takes two arguments) cumulatively to the items in the iterable.  
+
+        filter():= 
+                    filter() function in Python is used to filter elements from an iterable
+                    like a list, tuple, or string based on a condition specified in a function.
+                                

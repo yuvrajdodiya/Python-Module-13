@@ -1,0 +1,9 @@
+• String slicing
+          String slicing allows you to extract a portion (substring) 
+          from a string. This operation is powerful and flexible, as it 
+          enables you to access specific characters or parts of a string 
+          by specifying a range of indices.
+
+       start: The starting index .
+       end: The ending index.
+       step: The range between index.
