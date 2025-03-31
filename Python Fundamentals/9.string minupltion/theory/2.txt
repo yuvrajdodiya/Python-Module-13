@@ -1,0 +1,11 @@
+
+• Basic operations: concatenation, repetition, string methods (upper(), lower(), etc.).
+
+            concatenation : Concatenation means combining two or more strings
+                             into a single string.
+            repetition : you can repet string using this operation 
+
+            string methods:-
+            upper() :  Converts all characters in the string to uppercase.
+            lower(): Converts all characters in the string to lowercase.
+

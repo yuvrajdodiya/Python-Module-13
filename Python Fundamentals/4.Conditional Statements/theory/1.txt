@@ -1,0 +1,28 @@
+• Introduction to conditional statements: if, else, elif.
+
+if: Checks a condition and executes the block if true.
+elif: Checks another condition if the if condition is false.
+else: Executes when all conditions are false.
+
+        if statements: 
+            if condition:
+                true
+           
+        if else statement: 
+
+            if condition:
+                true 
+            else:
+                fales
+
+        elif statement: 
+
+            if condition:
+                true
+            elif:
+                true
+            elif:
+                true
+            elif :
+                fales 
+

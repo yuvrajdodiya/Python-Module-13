@@ -1,0 +1,14 @@
+4.Installing Python and setting up the development environment (Anaconda, PyCharm, or VSCode).
+
+        - download
+                python.org
+        -Installation 
+                windows : run to installation 
+        -IDEL(integrated development learing )
+                it is using learing perpose only.
+        -vs code:
+                installation in web 
+                Install Packages
+                start coding 
+
+

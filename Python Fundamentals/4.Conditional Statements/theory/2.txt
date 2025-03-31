@@ -1,0 +1,13 @@
+Nested if-else conditions statement : 
+
+A nested if-else places one if or else inside another for more complex decisions.
+
+    if statement:
+        if condition:
+            true
+        else:
+            fales
+    else:
+        if condition:
+            true
+        else:

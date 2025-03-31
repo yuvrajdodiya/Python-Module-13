@@ -1,0 +1,15 @@
+• Introduction to for and while loops.
+
+    for loop: 
+                -For loop is seqwance control loop and it was use to executes the block of code for 
+each item in the sequence
+    example: 
+            for i in range(1,10):
+
+  while loop:while loop is entry control loop 
+                - while loop is entry cntrol loop .The while loop is a block of code as long
+as the given condition is true.
+
+     example:
+        while condition:
+

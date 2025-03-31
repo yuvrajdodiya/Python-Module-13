@@ -1,0 +1,11 @@
+• Python variables and memory allocation.
+    
+        python variables : variable is name which can store a value
+    
+        python memory allocation: 
+            dynamic memory: Python objects like integers, strings, lists, etc. are
+                            stored in the heap.
+            Stack Memory:   Local variables like a function arguments and
+                            function calls are managed in the stack.
+
+

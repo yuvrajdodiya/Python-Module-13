@@ -1,0 +1,28 @@
+#• How functional programming works in Python.
+
+1. First-Class Functions :- 
+    Functions are treated as first-class citizens, meaning they can be assigned to variables,
+    passed as arguments, and returned from other functions.
+
+2. Higher-Order Functions :- 
+    Functions that take other functions as arguments or return them as results.
+
+3. Immutability :- 
+    Functional programming encourages using immutable data structures, 
+    which cannot be modified after creation.
+
+4. Lambda Functions :-  
+    Anonymous functions created with the lambda keyword for concise function expressions.
+
+5. Map, Filter, and Reduce :- 
+    1. map(func, iterable) :-
+        Applies a function to all elements in an iterable.
+
+    2. filter(func, iterable) :- 
+        Filters elements based on a condition.
+
+    3. reduce(func, iterable) :- 
+        Performs a cumulative operation. Requires functools.reduce.
+    
+6. Recursion :-
+    Functions calling themselves instead of using loops.

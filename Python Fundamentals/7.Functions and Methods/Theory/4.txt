@@ -1,0 +1,20 @@
+>Built-in methods for strings, lists, etc.
+
+1. Strings Methods :- 
+
+    1. str.lower () :- Converts all charcters in the string to lowercase.
+    2. str.upper () :- Converts all charcters in the string to uppercase.
+    3. str.split () :-Splits the string into a list of substrings based on the given separator.
+    4. str.join () :- Joins the elements of an iterable using the string as a separator.
+    5. str.replace () :-  Replaces occurrences of a substring with another substring.
+
+       
+2. List Methods :-
+    
+    1. list.append () :-Adds an items to the end of list.
+    2. list.remove () :-Remove the first occurrences of an items form te list.
+    3. list.pop () :-  Remove and returns the item at the given index (default is the last item).
+    4. list.sort () :- Sorts the list in ascending order.
+    5. list.reverse () :-Reverses the order of the items in the list.
+        
+        

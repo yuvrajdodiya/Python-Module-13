@@ -1,0 +1,9 @@
+• How loops work in Python.
+
+        A loop  to execute a statement or group of statements multiple times.
+    type :
+     1 for loop
+     2 while loop
+
+
+

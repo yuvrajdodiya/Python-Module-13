@@ -1,0 +1,10 @@
+• Understanding how to access and manipulate strings.
+
+     Strings in Python are sequences of characters.and Index start at 0.
+      subject = "Python"
+      print(text[0])  
+      print(text[-1])
+
+
+
+            

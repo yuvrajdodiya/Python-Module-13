@@ -1,0 +1,15 @@
+• Indentation, comments, and naming conventions in Python.
+
+
+    Indentation:-Indentation means adding spaces at the beginning of a line to show the code structure.
+                   Python relies on indentation to define blocks of code. Without proper indentation,
+                   your code won’t work.
+
+    comments:-Comments are notes in your code that Python ignores when running the program. 
+              They help explain what your code does.single line comment use a # symbol.triple quotes for docstrings.
+
+    Naming Conventions:-  Consistent names make your code easier to understand and maintain.
+                          Must start with a letter or an underscore (_).
+                          Cannot start with a number.
+                          Can contain only letters, numbers, and underscores (A-Z, a-z, 0-9, _).
+

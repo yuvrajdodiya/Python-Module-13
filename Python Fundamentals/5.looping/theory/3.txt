@@ -1,0 +1,29 @@
+• Using loops with collections (lists, tuples, etc.).
+1. List :- 
+    A list is an ordered, mutable collection. loops can be used to intrate through each element.
+
+    Example :- 
+        number = ['12', '03', '13']
+        for I in numbre:
+            Print(I)
+
+2. Tuple :- 
+    A tuple is similar to a list but immutable. loops work similarly with tuples.
+
+    Example :
+        num = (10, 20, 30)
+        for I in num:
+            Print(I) 
+        
+3. Set :-
+    A set is an unordered collection of unique element.Looping through a set may not preserve order.
+
+    Example :- 
+        name = {'yuvraj', 'om', 'smit'}
+        For name in  name
+            print(name)
+
+4. Dictionaries :-
+    A dictionary is a collection of key-value pairs. You can loop through keys, values, or both.
+    Example : - 
+         dict = {}

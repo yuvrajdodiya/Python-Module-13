@@ -1,0 +1,19 @@
+• Difference between yield and return.
+
+
+return ) 
+    
+        Purpose : Terminates the function's execution and returns a single value to the caller.
+        Behavior: When a return statement is encountered, the function immediately stops executing
+        function type : Regular function        
+        Value Returned :	Single value
+
+
+yield ) 
+
+        purpose : Pauses the function's execution and returns a value to the caller
+                  but the function's state is saved 
+        behavior:  A yield statement is encountered, the function's 
+                   execution is temporarily suspended, and the specified value is returned
+        function type : Generator function
+        value returned : Sequence of values
