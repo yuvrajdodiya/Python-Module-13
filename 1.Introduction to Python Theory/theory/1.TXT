@@ -1,0 +1,9 @@
+1. Introduction to Python and its Features (simple, high-level, interpreted language).
+        - Python is most populer,high-leval advance programing language.
+        - interpreted object oriented language
+using 
+        -development
+        -web application
+        -mobile application
+        -destop application
+

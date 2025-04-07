@@ -1,0 +1,8 @@
+Q-1 Understanding Python’s PEP 8 guidelines.
+
+1. Indentation) Use 4 spaces per indentation level (avoid using tabs).
+
+2. Maximum Line Length) Limit all lines to a maximum of 79 characters (72 for docstrings).
+
+3. Naming Conventions) Python has specific conventions for naming variables, functions, classes, and modules.
+   These conventions help make code more readable and consistent.

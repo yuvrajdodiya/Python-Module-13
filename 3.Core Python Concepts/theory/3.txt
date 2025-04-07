@@ -1,0 +1,27 @@
+• Python operators: arithmetic, comparison, logical, bitwise
+
+        operator: specific symbol to perfrom specific opreation.
+
+        arithmetic operators : 
+                    + ,- ,* , / , // (floor division) , **(exponention)
+
+        comparison operator(relation operator) :
+                    ==
+                    !=
+                    >
+                    <
+                    >=
+                    <= 
+        logical operator : 
+
+                and (both condition are true )
+                or (one condition true and second condition are fales)
+                not (condition is fales)
+
+        bitwise operator: 
+
+            And(&)
+            left shift(<<)
+            right shift(>>)
+            or(|)
+            not(~)

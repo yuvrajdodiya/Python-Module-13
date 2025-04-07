@@ -1,0 +1,8 @@
+3.Advantages of using Python over other programming languages
+
+        Simple to learn and use, user-friendly built-in data type.
+
+        Works Everywhere like as on Windows, macOS, Linux, and even mobile devices.
+  Variable do not need declaration.
+
+

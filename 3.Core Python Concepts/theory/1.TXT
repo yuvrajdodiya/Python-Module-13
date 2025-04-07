@@ -1,0 +1,14 @@
+• Understanding data types: integers, floats, strings, lists, tuples, dictionaries, sets.
+
+        data type : data type which is represent differnt type of value 
+
+        integers:  Represents whole numbers, positive or negative, without decimals.
+        floats :   Represents real numbers or numbers with a fractional part.
+        strings:   strings is a squence of charactor 
+        lists::    A list is like a box where you can keep a collection of items You can change the items in the list later.
+        tuples:    A tuple is similar to a list, but once you put items inside a tuple, you can't change them.
+        dictionaries: A dictionary is like a phone book where each item has a name (key) and a value 
+        set:       A set is like a collection of unique items, meaning it doesn't allow duplicates.
+
+
+

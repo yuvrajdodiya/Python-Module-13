@@ -1,0 +1,8 @@
+2. History and evolution of Python.
+
+       Python was designed by Guido van Rossum in 1991 and developed by Python Software
+Foundation. 
+        Compare to java, c, c++ it used fewer code to express the concept
+
+
+

@@ -1,0 +1,11 @@
+3)Writing readable and maintainable code.
+      
+     Use Comments: Explain complex logic briefly.
+
+     Use functions and classes for reusability.
+     
+     Handle Errors: Use try-except for safe execution.
+     
+     Readable Outputs: Use f-strings for clarity.
+
+     use meaningfull names for variable and functions
